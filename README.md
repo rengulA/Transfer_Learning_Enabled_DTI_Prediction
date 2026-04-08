@@ -31,6 +31,7 @@ This repository contains the data, code, and GitHub Pages content for the DTI tr
 
 ## Contact
 
-**Mutlu Lab** — [https://mutlulab.uchicago.edu/](https://mutlulab.uchicago.edu/)
+**Mutlu Lab** — [rengul@uchicago.edu](Rengul Cetin Atalay) 
+[https://mutlulab.uchicago.edu/](https://mutlulab.uchicago.edu/)
 Department of Medicine, Section of Pulmonary and Critical Care Medicine
 The University of Chicago, Chicago, IL, USA
