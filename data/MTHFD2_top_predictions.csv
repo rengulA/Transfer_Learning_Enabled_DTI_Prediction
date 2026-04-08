@@ -1,0 +1,13 @@
+Drugbank ID,Generic Name,Mode1,Mode2_Layer1,Mode2_Layer2
+DB00440,Trimethoprim,0.873,0.83,0.899
+DB00555,Lamotrigine,0.864,0.975,0.832
+DB00650,Leucovorin,0.983,0.865,0.962
+DB00716,Nedocromil,0.956,0.913,0.886
+DB01148,Flavoxate,0.911,0.83,0.846
+DB06813,Pralatrexate,0.973,0.956,0.95
+DB08911,Trametinib,0.95,0.926,0.932
+DB11596,Levoleucovorin,0.963,0.899,0.947
+DB11611,Lifitegrast,0.968,0.91,0.943
+DB11994,Diacerein,0.958,0.842,0.911
+DB13228,Flosequinan,0.896,0.858,0.905
+DB00389,Carbimazole,0.920,0.799,0.887

@@ -1,0 +1,10 @@
+Drugbank ID,Generic Name,Mode1,Mode2_Layer1,Mode2_Layer2
+DB08865,Crizotinib,0.992,0.998,0.995
+DB11632,Opicapone,0.967,0.956,0.963
+DB12612,Ozanimod,0.759,0.738,0.754
+DB14989,Umbralisib,0.607,0.663,0.693
+DB00718,Adefovir dipivoxil,0.945,0.979,0.981
+DB01007,Tioconazole,0.612,0.782,0.773
+DB11718,Encorafenib,0.957,0.972,0.966
+DB01087,Primaquine,1,0.999,1
+DB11987,GSK-2018682,0.969,0.937,0.967
