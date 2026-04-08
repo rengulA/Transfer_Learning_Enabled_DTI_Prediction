@@ -8,9 +8,9 @@ All datasets were constructed from **ChEMBL (V29)** using the IUBMB Enzyme Class
 
 | File | Description |
 |------|-------------|
-| [`MTHFD2_Active_Compounds.txt`](../MTHFD2_Active_Compounds.txt) | ChEMBL IDs of the 29 MTHFD2 active compounds |
-| [`MTHFD2_Source_Active_Compounds.txt`](../MTHFD2_Source_Active_Compounds.txt) | ChEMBL IDs of the source family active compounds |
-| [`MTHFD2_top_predictions.csv`](../MTHFD2_top_predictions.csv) | DrugBank virtual screening results for the MTHFD2 model (AUPRC scores across Mode 1, Mode 2 Layer 1, Mode 2 Layer 2) |
+| [`MTHFD2_Active_Compounds.txt`](../data/MTHFD2_Active_Compounds.txt) | ChEMBL IDs of the 29 MTHFD2 active compounds |
+| [`MTHFD2_Source_Active_Compounds.txt`](../data/MTHFD2_Source_Active_Compounds.txt) | ChEMBL IDs of the source family active compounds |
+| [`MTHFD2_top_predictions.csv`](../data/MTHFD2_top_predictions.csv) | DrugBank virtual screening results for the MTHFD2 model (AUPRC scores across Mode 1, Mode 2 Layer 1, Mode 2 Layer 2) |
 
 ---
 
@@ -18,9 +18,9 @@ All datasets were constructed from **ChEMBL (V29)** using the IUBMB Enzyme Class
 
 | File | Description |
 |------|-------------|
-| [`SHMT2_Active_Compounds.txt`](../SHMT2_Active_Compounds.txt) | ChEMBL IDs of the 6 SHMT1/2 active compounds |
-| [`SHMT2_Source_Active_Compounds.txt`](../SHMT2_Source_Active_Compounds.txt) | ChEMBL IDs of the EC 2.1.–.– source family active compounds |
-| [`SHMT2_top_predictions.csv`](../SHMT2_top_predictions.csv) | DrugBank virtual screening results for the SHMT2 model (AUPRC scores across Mode 1, Mode 2 Layer 1, Mode 2 Layer 2) |
+| [`SHMT2_Active_Compounds.txt`](../data/SHMT2_Active_Compounds.txt) | ChEMBL IDs of the 6 SHMT1/2 active compounds |
+| [`SHMT2_Source_Active_Compounds.txt`](../data/SHMT2_Source_Active_Compounds.txt) | ChEMBL IDs of the EC 2.1.–.– source family active compounds |
+| [`SHMT2_top_predictions.csv`](../data/SHMT2_top_predictions.csv) | DrugBank virtual screening results for the SHMT2 model (AUPRC scores across Mode 1, Mode 2 Layer 1, Mode 2 Layer 2) |
 
 ---
 
